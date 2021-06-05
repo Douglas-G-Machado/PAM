@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "titulo": "Adimiravel Mundo Novo",
+        "descricao": "Um clássico moderno, o romance de Aldous Huxley..." ,
+        "autor": "Aldous Huxley",
+        "AnoPublicado": 1932 
+
+    },
+    {
+        "id":2,
+        "titulo":"1984",
+        "descricao":"Uma das obras mais contudentes e influentes do século...",
+        "autor": "George Orwell",
+        "AnoPublicado": 1949
+    },
+    {
+        "id":3,
+        "titulo":"Laranja Mecânica",
+        "descricao":"Publicado pela primeira vez em 1962...",
+        "autor":"Anthony Burguess",
+        "AnoPublicado":1962
+    },
+    {
+        "id":4,
+        "titulo":"Neuromancer",
+        "descricao":"O Céu sobre o porto tinha cor de televisão...",
+        "autor":"William Gibson",
+        "AnoPublicado": 1984
+    }
+]
